@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ABOUT" xml:space="preserve">
+        <value>关于</value>
+    </data>
+    <data name="APPTITLE" xml:space="preserve">
+        <value>VisualTrace</value>
+    </data>
+    <data name="AVRG" xml:space="preserve">
+        <value>平均延迟</value>
+    </data>
+    <data name="QUIT" xml:space="preserve">
+        <value>退出</value>
+    </data>
+    <data name="HOMEPAGE" xml:space="preserve">
+        <value>github主页</value>
+    </data>
+    <data name="PREFERENCES" xml:space="preserve">
+        <value>设置</value>
+    </data>
+    <data name="MENU" xml:space="preserve">
+        <value>菜单</value>
+    </data>
+    <data name="MTR_MODE" xml:space="preserve">
+        <value>MTR 模式</value>
+    </data>
+    <data name="START" xml:space="preserve">
+        <value>开始</value>
+    </data>
+    <data name="PROTOCOL_FOR_TRACEROUTING" xml:space="preserve">
+        <value>Traceroute使用的协议</value>
+    </data>
+    <data name="DISABLE_IPGEO" xml:space="preserve">
+        <value>禁用地理位置</value>
+    </data>
+    <data name="IP_GEO_DATA_PROVIDER" xml:space="preserve">
+        <value>IP地理位置数据源</value>
+    </data>
+    <data name="COPY" xml:space="preserve">
+        <value>复制</value>
+    </data>
+    <data name="GEOLOCATION" xml:space="preserve">
+        <value>地理位置</value>
+    </data>
+    <data name="HOSTNAME" xml:space="preserve">
+        <value>主机名</value>
+    </data>
+    <data name="SYSTEM_DNS_RESOLVER" xml:space="preserve">
+        <value>系统 DNS</value>
+    </data>
+    <data name="WINDOWS_TCP_UDP_UNSUPPORTED" xml:space="preserve">
+        <value>暂不支持 TCP/UDP Traceroute</value>
+    </data>
+    <data name="EMPTY_HOSTNAME_MSGBOX" xml:space="preserve">
+        <value>IP 或 域名不能为空</value>
+    </data>
+    <data name="SELECT_IP_MSGBOX" xml:space="preserve">
+        <value>请从下拉栏中选择一个IP</value>
+    </data>
+    <data name="SELECT_IP_DROPDOWN" xml:space="preserve">
+        <value>选择一个IP</value>
+    </data>
+    <data name="NAME_NOT_RESOLVED" xml:space="preserve">
+        <value>找不到主机 {0}。请检查该名称，然后重试。</value>
+    </data>
+    <data name="STOP" xml:space="preserve">
+        <value>停止</value>
+    </data>
+    <data name="GENERAL" xml:space="preserve">
+        <value>常规设置</value>
+    </data>
+    <data name="MAP_PROVIDER" xml:space="preserve">
+        <value>地图数据源</value>
+    </data>
+    <data name="MAP_PROVIDER_BAIDU" xml:space="preserve">
+        <value>百度地图</value>
+    </data>
+    <data name="MAP_PROVIDER_AMAP" xml:space="preserve">
+        <value>高德地图</value>
+    </data>
+    <data name="CUSTOM_DNS_RESOLVERS" xml:space="preserve">
+        <value>自定义DNS服务器（仅支持UDP）</value>
+    </data>
+    <data name="GRID_SIZE_RATIO" xml:space="preserve">
+        <value>表格高度占比</value>
+    </data>
+    <data name="COMBINE_GEO_ORG" xml:space="preserve">
+        <value>把地理位置和组织信息合为一栏</value>
+    </data>
+    <data name="TIME_ROUNDING" xml:space="preserve">
+        <value>保留延迟显示到整数位</value>
+    </data>
+    <data name="HIDE_MAP_POPUP" xml:space="preserve">
+        <value>隐藏地图上的窗口信息</value>
+    </data>
+    <data name="HIDE_ADD_FIREWALL_PROMPT" xml:space="preserve">
+        <value>不再提示添加防火墙规则</value>
+    </data>
+    <data name="TRACEROUTE" xml:space="preserve">
+        <value>路由跟踪</value>
+    </data>
+    <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <data name="baiduMap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+        <value>.\javascript\baiduMap.js;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    </data>
+    
+    <data name="QUERIES_SETTING" xml:space="preserve">
+        <value>每跃点探测次数</value>
+    </data>
+    <data name="DST_PORT_INIT_SEQ" xml:space="preserve">
+        <value>目标端口 / 初始序号</value>
+    </data>
+    <data name="PARALLEL_REQ" xml:space="preserve">
+        <value>并行请求数</value>
+    </data>
+    <data name="MAX_HOPS" xml:space="preserve">
+        <value>最大跃点</value>
+    </data>
+    <data name="FIRST_TTL_HOP" xml:space="preserve">
+        <value>首个跃点</value>
+    </data>
+    <data name="PACKET_INTERVAL" xml:space="preserve">
+        <value>请求间隔</value>
+    </data>
+    <data name="PACKET_GROUP_INTERVAL" xml:space="preserve">
+        <value>分组请求间隔</value>
+    </data>
+    <data name="SRC_ADDR_SETTING" xml:space="preserve">
+        <value>源地址</value>
+    </data>
+    <data name="SRC_INTERFACE_SETTING" xml:space="preserve">
+        <value>源接口</value>
+    </data>
+    <data name="RDNS_MODE" xml:space="preserve">
+        <value>反向 DNS 查询模式</value>
+    </data>
+    <data name="RESTART_TO_APPLY" xml:space="preserve">
+        <value>部分设置需重启应用才能生效</value>
+    </data>
+    <data name="SAVE" xml:space="preserve">
+        <value>保存</value>
+    </data>
+    <data name="CANCEL" xml:space="preserve">
+        <value>取消</value>
+    </data>
+    <data name="ASK_ADD_ICMP_FIREWALL_RULE" xml:space="preserve">
+        <value>traceroute 需要接收特殊的 ICMP 响应报文来构建完整的 traceroute 信息；但默认情况下，Windows 防火墙会拦截此类消息，导致您只能看到 traceroute 的最后一跳。
+
+您可以点击“是”来自动添加防火墙规则，也可以点“否”取消这一操作。</value>
+    </data>
+    <data name="FAILED_TO_ADD_RULES" xml:space="preserve">
+        <value>添加防火墙规则失败</value>
+    </data>
+    <data name="EXCEPTIONAL_EXIT_MSG" xml:space="preserve">
+        <value>traceroute进程异常退出，请参考错误消息以了解更多信息。退出代码：</value>
+    </data>
+    <data name="TIME_MS" xml:space="preserve">
+        <value>时间(ms)</value>
+    </data>
+    <data name="ORGANIZATION" xml:space="preserve">
+        <value>组织</value>
+    </data>
+    <data name="LOSS" xml:space="preserve">
+        <value>丢包率(%)</value>
+    </data>
+    <data name="SENT" xml:space="preserve">
+        <value>已发送</value>
+    </data>
+    <data name="RECV" xml:space="preserve">
+        <value>接收数</value>
+    </data>
+    <data name="LAST" xml:space="preserve">
+        <value>当前延迟</value>
+    </data>
+    <data name="WORST" xml:space="preserve">
+        <value>最大延迟</value>
+    </data>
+    <data name="BEST" xml:space="preserve">
+        <value>最小延迟</value>
+    </data>
+    <data name="STDEV" xml:space="preserve">
+        <value>标准差</value>
+    </data>
+    <data name="EXC_OUTPUT_FORM_TITLE" xml:space="preserve">
+        <value>异常输出</value>
+    </data>
+    <data name="CLOSE" xml:space="preserve">
+        <value>关闭</value>
+    </data>
+    <data name="EXC_OUTPUT_FORM_PROMPT" xml:space="preserve">
+        <value>Traceroute 产生了一个或多个异常输出，请检查下面的输出信息以排查问题。</value>
+    </data>
+    <data name="RDNS_MODE_ALWAYS" xml:space="preserve">
+        <value>尝试获取完整 rDNS</value>
+    </data>
+    <data name="RDNS_MODE_DEFAULT" xml:space="preserve">
+        <value>快速 rDNS（默认）</value>
+    </data>
+    <data name="RDNS_MODE_DISABLE" xml:space="preserve">
+        <value>禁用 rDNS 查询</value>
+    </data>
+    <data name="ICMP_RULE_ADD_SUCCESS" xml:space="preserve">
+        <value>添加 ICMP 防火墙规则成功</value>
+    </data>
+    <data name="TIP" xml:space="preserve">
+        <value>提示</value>
+    </data>
+    <data name="PRIVATE_ADDR" xml:space="preserve">
+        <value>私有地址（局域网）</value>
+    </data>
+    <data name="SHARED_ADDR" xml:space="preserve">
+        <value>共享地址</value>
+    </data>
+    <data name="LINKLOCAL_ADDR" xml:space="preserve">
+        <value>链路本地地址</value>
+    </data>
+    <data name="LOOPBACK_ADDR" xml:space="preserve">
+        <value>本地回环地址</value>
+    </data>
+    <data name="HOP" xml:space="preserve">
+        <value>#</value>
+    </data>
+    <data name="DELAY_TIME" xml:space="preserve">
+        <value>延迟提示时间(ms)</value>
+    </data>
+    <data name="RED_SPEED" xml:space="preserve">
+        <value>红色阈值</value>
+    </data>
+    <data name="YELLOW_SPEED" xml:space="preserve">
+        <value>黄色阈值</value>
+    </data>
+</root>

@@ -1,0 +1,4 @@
+E:\csprogram\tracert\x64\Debug\Ijwhost.dll
+E:\csprogram\tracert\x64\Debug\CppCliWrapper.deps.json
+E:\csprogram\tracert\x64\Debug\CppCliWrapper.runtimeconfig.json
+E:\csprogram\tracert\CppCliWrapper\x64\Debug\CppCliWrapper.genruntimeconfig.cache
